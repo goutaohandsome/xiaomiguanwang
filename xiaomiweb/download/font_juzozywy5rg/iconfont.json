@@ -1,0 +1,100 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1173041",
+      "name": "礼物",
+      "font_class": "liwu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1856882",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "3437916",
+      "name": "箭头圆圈",
+      "font_class": "jiantouyuanquan",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "4065806",
+      "name": "7",
+      "font_class": "icon-test",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "5479871",
+      "name": "扳手",
+      "font_class": "banshou",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "9004520",
+      "name": "左箭头",
+      "font_class": "right-copy",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "9369462",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "10164590",
+      "name": "购物车",
+      "font_class": "gouwuche1-copy",
+      "unicode": "e509",
+      "unicode_decimal": 58633
+    },
+    {
+      "icon_id": "10403447",
+      "name": "15",
+      "font_class": "icon-test1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11947879",
+      "name": "圆圈箭头",
+      "font_class": "yuanquanjiantou",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "12964995",
+      "name": "右箭头",
+      "font_class": "arrowR",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    },
+    {
+      "icon_id": "13605103",
+      "name": "消息图标",
+      "font_class": "xiaoxitubiao",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "13905917",
+      "name": "定位",
+      "font_class": "location",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    }
+  ]
+}
